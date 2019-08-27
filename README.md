@@ -51,10 +51,7 @@ Normal distribution
 
 Standard normal distribution
 
-Statistical Testing with z-score and p-value 
-
-One-sample z-test
-
+Distributions
 
 #### Learning goals for this lesson:
 
@@ -104,4 +101,6 @@ A common misconception is that you can accept the alternative hypothesis.
 
 * Examples: One-sample z-tests, One-sample and two-sample t-tests (20 minutes)
 
-* Summary 
+* Summary (5 minutes)
+
+Wiggle room: 5 minutes
