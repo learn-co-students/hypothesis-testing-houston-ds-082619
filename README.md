@@ -97,7 +97,7 @@ A common misconception is that you can accept the alternative hypothesis.
     * As the students work thru the problem, reinforce the "recipe" for performing hypothesis tests. 
     
 * When do we use z-tests and when do we use t-tests? (5 minutes)
-    * z-test: large enough sample size, known population varianc
+    * z-test: large enough sample size, known population variance
     * t-test: small sample sizes, unknown population variance
 
 * Examples: One-sample z-tests, One-sample and two-sample t-tests (20 minutes)
