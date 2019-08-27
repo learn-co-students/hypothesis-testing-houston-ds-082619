@@ -21,7 +21,7 @@ Ported from the ds-lesson-starters repository [here](https://github.com/learn-co
 
 #### Lesson Summary:
 
-A discussion of hypothesis testing is motivated by an example where students perform a one-sample z-test. From there, ... 
+A discussion of concepts related to hypothesis testing is motivated by a word problem where students perform two-tailed and one-tailed one-sample z-tests. In this discussion, students apply the different steps necessary to perform a hypothesis test (setting the null and alternative hypothesis, determining the critical value of the relevant test statistic, performing the actual test, and deciding whether to reject of fail to reject the null hypothesis). Concepts related to hypothesis tests, such as the null hypothesis, alternative hypothesis, significance threshold ($\alpha$), and p-values are discussed. Then, the distinction between z-tests and t-tests is discussed. Students then work through z-test and t-test examples, stating hypothesis, computing test statistics, comparing against critical test statistics, and making decisions to reject or not reject the null hypothesis.
 
 
 #### Topic:
@@ -61,8 +61,8 @@ One-sample z-test
 * Students can define the null and alternative hypothesis. 
 * Students understand the difference between one-tailed and two-tailed tests.  
 * Students can define the significance threshold $\alpha$ and its relation to p-value. 
-* Students can differentiate when to use z-tests vs. t-tests.
-* Students can perform z-tests and t-tests using python libraries. 
+* Students differentiate when to use z-tests vs. t-tests.
+* Students perform z-tests and t-tests using python libraries. 
 
 Relevant learning goals from Airtable: 
 
@@ -71,7 +71,11 @@ Relevant learning goals from Airtable:
 
 #### Misconceptions / Notes
 
-* A common misconception is that you can accept the alternative hypothesis. This is not true. We either _reject_ or _fail to reject_ the null hypothesis at a given significance level $\alpha$. 
+A common misconception is that you can accept the alternative hypothesis. 
+
+> This is not true. 
+
+> We either _reject_ or _fail to reject_ the null hypothesis at a given significance level $\alpha$. 
 
 
 #### Materials
@@ -88,17 +92,16 @@ Relevant learning goals from Airtable:
 
 #### Lesson Outline:
 
-* Hypothesis testing
-    * Jumpstart the discussion with an example: give students a word problem for a one-sided one-sample z-test. 
+* Hypothesis testing (20 minutes)
+    * Jumpstart the discussion with an example: give students a word problem for a two-sided one-sample z-test. 
         * Ask students to write the null and alternative hypothesis. 
         * Discuss the importance of the significance threshold $\alpha$: business applications.
-
-* When do we use z-tests and when do we use t-tests? 
+        * What if we were performing a one-sided test? What would change? 
+    * As the students work thru the problem, reinforce the "recipe" for performing hypothesis tests. 
+    
+* When do we use z-tests and when do we use t-tests? (5 minutes)
     * z-test: assumption of normality and large enough sample size
 
-* One-sample z-test
-    * comparing the mean of a large enough sample (n $\geq$ 30) to a population mean
-
-* One-sample and two-sample t-tests
+* Examples: One-sample z-tests, One-sample and two-sample t-tests (20 minutes)
 
 * Summary 
