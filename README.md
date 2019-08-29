@@ -85,6 +85,10 @@ A common misconception is that you can accept the alternative hypothesis.
 #### Materials
 - Ipython notebook
 
+#### External Resources 
+
+[Penn State Stat 414/415 Hypothesis Testing](https://newonlinecourses.science.psu.edu/stat414/node/290/) 
+
 #### Vocab / Concepts 
 
 * Hypothesis testing
