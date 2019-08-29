@@ -45,16 +45,23 @@ Statistics
 [Section Recap](https://github.com/learn-co-curriculum/dsc-hypothesis-testing-section-recap)
 
 
-#### Prerequisite knowledge/ Prework:
+#### Prerequisite knowledge: 
 
-Normal distribution
+* Students should know the empirical rule for a normal distribution. 
+* Students should be able to use Python to calculate a p-value from a z-score and a t-score. 
+* Students can explain how to model population parameters from sample statistics using the central limit theorem.
 
-Standard normal distribution
+#### Prerequisite Learn.co material:
 
-Student's t-distribution
+[Normal distribution](https://github.com/learn-co-curriculum/dsc-normal-distribution)
 
-Central Limit Theorem / Sampling distribution of sample statistics
+[Standard normal distribution](https://github.com/learn-co-curriculum/dsc-standard-normal-distribution)
 
+[Introduction to Sampling](https://github.com/learn-co-curriculum/dsc-introduction-to-sampling)
+
+[Central Limit Theorem](https://github.com/learn-co-curriculum/dsc-central-limit-theorem)
+
+[Confidence Intervals with T Distribution](https://github.com/learn-co-curriculum/dsc-intervals-with-t-distribution)
 
 #### Learning goals for this lesson:
 
@@ -62,7 +69,9 @@ Central Limit Theorem / Sampling distribution of sample statistics
 * Students understand the difference between one-tailed and two-tailed tests.  
 * Students can define the significance threshold $\alpha$ and its relation to p-value. 
 * Students differentiate when to use z-tests vs. t-tests.
-* Students perform z-tests and t-tests using python libraries. 
+* Students perform z-tests and t-tests using Python libraries.
+* Students should be able to calculate p-values for z-tests and t-tests. 
+
 
 Relevant learning goals from Airtable: 
 
