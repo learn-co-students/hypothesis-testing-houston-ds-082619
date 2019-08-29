@@ -12,9 +12,9 @@ hidden: true
 **Mod**: Mod 3 V2               <br/>
 **Topic**:  Statistics <br/>
 **Amount of time**: 60 minutes  <br/>
-**Author**: Alison Peebles Madigan and Laura Colon Melendez
+**Author**: Alison Peebles Madigan and Laura Colon-Melendez
 
-Ported from the ds-lesson-starters repository [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/hypothesis_testing) and [here](). 
+Ported from the ds-lesson-starters repository [here](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/hypothesis_testing). 
 
 
 ***
@@ -53,7 +53,7 @@ Standard normal distribution
 
 Student's t-distribution
 
-Central Limit Theorem
+Central Limit Theorem / Sampling distribution of sample statistics
 
 
 #### Learning goals for this lesson:
@@ -66,7 +66,11 @@ Central Limit Theorem
 
 Relevant learning goals from Airtable: 
 
-* 
+* HYPOTHESIS_TESTS.2.recOBGkvuQiqdXrJq
+* HYPOTHESIS_TESTS.2.recHMI9uZaDHbUvmQ
+* HYPOTHESIS_TESTS.3.recKRxrFajPLHlGsm
+* HYPOTHESIS_TESTS.3.recpJZfpvVN4zhGas
+
 
 
 #### Misconceptions / Notes
@@ -89,6 +93,7 @@ A common misconception is that you can accept the alternative hypothesis.
 * p-values 
 * One-sample z-test
 * One- and two-sample t-tests
+* Paired and unpaired two-sample t-test
 
 #### Lesson Outline:
 
@@ -105,6 +110,7 @@ A common misconception is that you can accept the alternative hypothesis.
     * t-test: small sample sizes, unknown population variance
 
 * Examples: One-sample z-tests, one-sample and two-sample t-tests (20 minutes)
+    * Several examples are presented and are meant as practice. Go over as many examples as time allows. 
 
 * Summary (5 minutes)
 
