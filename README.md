@@ -34,7 +34,7 @@ A common misconception is that you can accept the alternative hypothesis.
 
 _**This is not true.**_
 
-We either _reject_ or _fail to reject_ the null hypothesis at a given significance level $\alpha$. 
+We either _reject_ or _fail to reject_ the null hypothesis at a given significance level, alpha. 
 
 #### External Resources 
 
