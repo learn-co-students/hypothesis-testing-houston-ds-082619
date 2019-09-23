@@ -32,9 +32,9 @@ Statistics
 
 A common misconception is that you can accept the alternative hypothesis. 
 
-> This is not true. 
+**This is not true.**
 
-> We either _reject_ or _fail to reject_ the null hypothesis at a given significance level $\alpha$. 
+We either _reject_ or _fail to reject_ the null hypothesis at a given significance level $\alpha$. 
 
 #### External Resources 
 
